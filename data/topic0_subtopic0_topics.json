@@ -1,0 +1,16 @@
+[
+  { "id": "1", "name": "Black holes", "permission": "all" },
+  { "id": "2", "name": "Computational Social Science", "permission": "all" },
+  { "id": "3", "name": "Artificial Intelligence", "permission": "all" },
+  { "id": "4", "name": "Biocomputing", "permission": "all" },
+  { "id": "6", "name": "Egyptian 2021 Gastroenterology", "permission": "all" },
+  { "id": "7", "name": "Scientific Reports", "permission": "all" },
+  { "id": "12", "name": "Astrobiology", "permission": "all" },
+  {
+    "id": "15",
+    "name": "SDG3 - Good Health and Well-Being",
+    "permission": "all"
+  },
+  { "id": "16", "name": "SDG 7 - Energy", "permission": "all" },
+  { "id": "18", "name": "Benjamin List", "permission": "all" }
+]

@@ -1,0 +1,444 @@
+[
+  {
+    "researcher_id": "ur.016424047104.23",
+    "community": 10,
+    "pagerank": 7.616086547759709e-5,
+    "first_name": "Russell A",
+    "last_name": "Wilke",
+    "affiliation": "University of South Dakota",
+    "countries": "United States",
+    "year": 2021,
+    "month": 8,
+    "articles": 1,
+    "categories": [{ "name": "Country", "segment": "US" }]
+  },
+  {
+    "researcher_id": "ur.016436261634.17",
+    "community": 10,
+    "pagerank": 0.0002846293811412836,
+    "first_name": "Christian",
+    "last_name": "Darabos",
+    "affiliation": "Dartmouth College",
+    "countries": "United States",
+    "year": 2021,
+    "month": 11,
+    "articles": 3,
+    "categories": [{ "name": "Country", "segment": "US" }]
+  },
+  {
+    "researcher_id": "ur.01210206243.46",
+    "community": 10,
+    "pagerank": 0.00028462938114133627,
+    "first_name": "Sarah A.",
+    "last_name": "Pendergrass",
+    "affiliation": "Roche (United States)",
+    "countries": "United States",
+    "year": 2021,
+    "month": 12,
+    "articles": 1,
+    "categories": [
+      { "name": "Country", "segment": "US" },
+      { "name": "Biocomputing subtopics", "segment": "DNA Computing" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01023006672.53",
+    "community": 10,
+    "pagerank": 0.0002846293811414367,
+    "first_name": "Anurag",
+    "last_name": "Verma",
+    "affiliation": "University of Pennsylvania",
+    "countries": "United States",
+    "year": 2021,
+    "month": 12,
+    "articles": 1,
+    "categories": [
+      { "name": "Country", "segment": "US" },
+      { "name": "Biocomputing subtopics", "segment": "DNA Computing" }
+    ]
+  },
+  {
+    "researcher_id": "ur.07656647775.84",
+    "community": 10,
+    "pagerank": 0.00028462938114148453,
+    "first_name": "Anna O.",
+    "last_name": "Basile",
+    "affiliation": "New York University | New York Genome Center",
+    "countries": "United States",
+    "year": 2021,
+    "month": 4,
+    "articles": 1,
+    "categories": [
+      { "name": "Country", "segment": "US" },
+      { "name": "Biocomputing subtopics", "segment": "DNA Computing" }
+    ]
+  },
+  {
+    "researcher_id": "ur.0713634457.34",
+    "community": 10,
+    "pagerank": 0.0002846293811413873,
+    "first_name": "Marta",
+    "last_name": "Byrska-Bishop",
+    "affiliation": "New York Genome Center",
+    "countries": "United States",
+    "year": 2021,
+    "month": 10,
+    "articles": 1,
+    "categories": [
+      { "name": "Country", "segment": "US" },
+      { "name": "Biocomputing subtopics", "segment": "DNA Computing" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01310161310.92",
+    "community": 10,
+    "pagerank": 0.00026177343124241355,
+    "first_name": "Roxana",
+    "last_name": "Daneshjou",
+    "affiliation": "Stanford University",
+    "countries": "United States",
+    "year": 2022,
+    "month": 1,
+    "articles": 1,
+    "categories": [
+      { "name": "Biocomputing subtopics", "segment": "Cloud Computing" },
+      { "name": "Country", "segment": "US" }
+    ]
+  },
+  {
+    "researcher_id": "ur.0627250074.18",
+    "community": 10,
+    "pagerank": 0.0002617734312426324,
+    "first_name": "Olga K",
+    "last_name": "Afanasiev",
+    "affiliation": "Sutter Health",
+    "countries": "United States",
+    "year": 2021,
+    "month": 4,
+    "articles": 1,
+    "categories": [
+      { "name": "Biocomputing subtopics", "segment": "Cloud Computing" },
+      { "name": "Country", "segment": "US" }
+    ]
+  },
+  {
+    "researcher_id": "ur.013150242363.02",
+    "community": 10,
+    "pagerank": 0.0002339092608123275,
+    "first_name": "Dragutin",
+    "last_name": "Petkovic",
+    "affiliation": "San Francisco State University",
+    "countries": "United States",
+    "year": 2021,
+    "month": 7,
+    "articles": 1,
+    "categories": [
+      { "name": "Biocomputing subtopics", "segment": "Cloud Computing" },
+      { "name": "Country", "segment": "US" }
+    ]
+  },
+  {
+    "researcher_id": "ur.074406566.83",
+    "community": 10,
+    "pagerank": 0.0002339092608122797,
+    "first_name": "Lester",
+    "last_name": "Kobzik",
+    "affiliation": "Harvard University",
+    "countries": "United States",
+    "year": 2021,
+    "month": 8,
+    "articles": 1,
+    "categories": [
+      { "name": "Biocomputing subtopics", "segment": "Cloud Computing" },
+      { "name": "Country", "segment": "US" }
+    ]
+  },
+  {
+    "researcher_id": "ur.0644117073.35",
+    "community": 10,
+    "pagerank": 0.0002617734312425274,
+    "first_name": "Martha L.",
+    "last_name": "Bulyk",
+    "affiliation": "Harvard University | Brigham and Women's Hospital | Dana-Farber Cancer Institute",
+    "countries": "United States",
+    "year": 2021,
+    "month": 12,
+    "articles": 2,
+    "categories": [
+      { "name": "Biocomputing subtopics", "segment": "Cloud Computing" },
+      { "name": "Country", "segment": "US" }
+    ]
+  },
+  {
+    "researcher_id": "ur.0716254234.09",
+    "community": 10,
+    "pagerank": 0.00023390926081223002,
+    "first_name": "Christopher",
+    "last_name": "R\u00e9",
+    "affiliation": "Stanford University",
+    "countries": "United States",
+    "year": 2021,
+    "month": 11,
+    "articles": 1,
+    "categories": [
+      { "name": "Biocomputing subtopics", "segment": "Cloud Computing" },
+      { "name": "Country", "segment": "US" }
+    ]
+  },
+  {
+    "researcher_id": "ur.0635537047.45",
+    "community": 10,
+    "pagerank": 0.0002617734312425809,
+    "first_name": "Joanne",
+    "last_name": "Berghout",
+    "affiliation": "University of Arizona",
+    "countries": "United States",
+    "year": 2021,
+    "month": 7,
+    "articles": 2,
+    "categories": [
+      { "name": "Biocomputing subtopics", "segment": "Cloud Computing" },
+      { "name": "Country", "segment": "US" }
+    ]
+  },
+  {
+    "researcher_id": "ur.0605276160.64",
+    "community": 10,
+    "pagerank": 0.0002617734312424716,
+    "first_name": "Jonathan H.",
+    "last_name": "Chen",
+    "affiliation": "Stanford University",
+    "countries": "United States",
+    "year": 2021,
+    "month": 12,
+    "articles": 1,
+    "categories": [
+      { "name": "Biocomputing subtopics", "segment": "Cloud Computing" },
+      { "name": "Country", "segment": "US" }
+    ]
+  },
+  {
+    "researcher_id": "ur.013416520777.46",
+    "community": 10,
+    "pagerank": 0.0002617734312423532,
+    "first_name": "\u0141ukasz",
+    "last_name": "Kidzi\u0144ski",
+    "affiliation": "Stanford University",
+    "countries": "United States",
+    "year": 2021,
+    "month": 11,
+    "articles": 1,
+    "categories": [
+      { "name": "Biocomputing subtopics", "segment": "Cloud Computing" },
+      { "name": "Country", "segment": "US" }
+    ]
+  },
+  {
+    "researcher_id": "ur.015734107537.38",
+    "community": 10,
+    "pagerank": 0.00025688125798947303,
+    "first_name": "Joshua C.",
+    "last_name": "Denny",
+    "affiliation": "National Institutes of Health",
+    "countries": "United States",
+    "year": 2021,
+    "month": 11,
+    "articles": 1,
+    "categories": [
+      { "name": "Biocomputing subtopics", "segment": "DNA Logic gates" },
+      { "name": "Country", "segment": "US" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01276172361.01",
+    "community": 10,
+    "pagerank": 0.0001812809093045489,
+    "first_name": "Richard",
+    "last_name": "Bourgon",
+    "affiliation": "Roche (United States)",
+    "countries": "United States",
+    "year": 2021,
+    "month": 10,
+    "articles": 1,
+    "categories": [
+      { "name": "Biocomputing subtopics", "segment": "DNA Logic gates" },
+      { "name": "Country", "segment": "US" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01227155553.59",
+    "community": 10,
+    "pagerank": 0.00028367255483499544,
+    "first_name": "Sean D",
+    "last_name": "Mooney",
+    "affiliation": "University of Washington",
+    "countries": "United States",
+    "year": 2021,
+    "month": 12,
+    "articles": 2,
+    "categories": [
+      { "name": "Biocomputing subtopics", "segment": "DNA Logic gates" },
+      { "name": "Country", "segment": "US" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01027372244.16",
+    "community": 10,
+    "pagerank": 0.00018128090930450292,
+    "first_name": "Zhengyan",
+    "last_name": "Kan",
+    "affiliation": "Pfizer (United States)",
+    "countries": "United States",
+    "year": 2021,
+    "month": 5,
+    "articles": 1,
+    "categories": [
+      { "name": "Biocomputing subtopics", "segment": "DNA Logic gates" },
+      { "name": "Country", "segment": "US" }
+    ]
+  },
+  {
+    "researcher_id": "ur.013163247131.61",
+    "community": 10,
+    "pagerank": 0.0005937756503895123,
+    "first_name": "Teri E.",
+    "last_name": "Klein",
+    "affiliation": "Stanford University",
+    "countries": "United States",
+    "year": 2021,
+    "month": 8,
+    "articles": 6,
+    "categories": [
+      { "name": "Biocomputing subtopics", "segment": "DNA Logic gates" },
+      { "name": "Country", "segment": "US" }
+    ]
+  },
+  {
+    "researcher_id": "ur.013114612622.02",
+    "community": 10,
+    "pagerank": 0.0005937756503896027,
+    "first_name": "A. Keith",
+    "last_name": "Dunker",
+    "affiliation": "Indiana University \u2013 Purdue University Indianapolis",
+    "countries": "United States",
+    "year": 2015,
+    "month": 9,
+    "articles": 6,
+    "categories": [
+      { "name": "Biocomputing subtopics", "segment": "DNA Logic gates" },
+      { "name": "Country", "segment": "US" }
+    ]
+  },
+  {
+    "researcher_id": "ur.011704424024.13",
+    "community": 10,
+    "pagerank": 0.00028367255483494297,
+    "first_name": "Josh C.",
+    "last_name": "Denny",
+    "affiliation": "Vanderbilt University Medical Center",
+    "countries": "United States",
+    "year": 2021,
+    "month": 1,
+    "articles": 1,
+    "categories": [
+      { "name": "Biocomputing subtopics", "segment": "DNA Logic gates" },
+      { "name": "Country", "segment": "US" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01101077522.37",
+    "community": 10,
+    "pagerank": 0.0005954727707025342,
+    "first_name": "Marylyn D.",
+    "last_name": "Ritchie",
+    "affiliation": "University of Pennsylvania",
+    "countries": "United States",
+    "year": 2021,
+    "month": 12,
+    "articles": 6,
+    "categories": [
+      { "name": "Biocomputing subtopics", "segment": "DNA Logic gates" },
+      { "name": "Country", "segment": "US" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01037746202.10",
+    "community": 10,
+    "pagerank": 0.00031129722151342374,
+    "first_name": "Bruce J.",
+    "last_name": "Aronow",
+    "affiliation": "University of Cincinnati | Cincinnati Children's Hospital Medical Center",
+    "countries": "United States",
+    "year": 2021,
+    "month": 12,
+    "articles": 3,
+    "categories": [
+      { "name": "Biocomputing subtopics", "segment": "DNA Logic gates" },
+      { "name": "Country", "segment": "US" }
+    ]
+  },
+  {
+    "researcher_id": "ur.0673442242.43",
+    "community": 10,
+    "pagerank": 0.0005018189940457241,
+    "first_name": "Steven E",
+    "last_name": "Brenner",
+    "affiliation": "University of California, Berkeley | Lawrence Berkeley National Laboratory",
+    "countries": "United States",
+    "year": 2021,
+    "month": 12,
+    "articles": 4,
+    "categories": [
+      { "name": "Biocomputing subtopics", "segment": "DNA Logic gates" },
+      { "name": "Country", "segment": "US" }
+    ]
+  },
+  {
+    "researcher_id": "ur.0676262336.61",
+    "community": 10,
+    "pagerank": 0.0005937756503896469,
+    "first_name": "Russ B",
+    "last_name": "Altman",
+    "affiliation": "Stanford University",
+    "countries": "United States",
+    "year": 2021,
+    "month": 11,
+    "articles": 7,
+    "categories": [
+      { "name": "Biocomputing subtopics", "segment": "DNA Logic gates" },
+      { "name": "Country", "segment": "US" }
+    ]
+  },
+  {
+    "researcher_id": "ur.013347016417.86",
+    "community": 10,
+    "pagerank": 0.0005937756503895578,
+    "first_name": "Lawrence E.",
+    "last_name": "Hunter",
+    "affiliation": "University of Colorado Anschutz Medical Campus",
+    "countries": "United States",
+    "year": 2021,
+    "month": 12,
+    "articles": 6,
+    "categories": [
+      { "name": "Biocomputing subtopics", "segment": "DNA Logic gates" },
+      { "name": "Country", "segment": "US" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01230771225.78",
+    "community": 10,
+    "pagerank": 0.0005018189940456729,
+    "first_name": "Dana C.",
+    "last_name": "Crawford",
+    "affiliation": "Case Western Reserve University",
+    "countries": "United States",
+    "year": 2021,
+    "month": 11,
+    "articles": 3,
+    "categories": [
+      { "name": "Biocomputing subtopics", "segment": "DNA Logic gates" },
+      { "name": "Country", "segment": "US" }
+    ]
+  }
+]

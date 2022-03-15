@@ -1,0 +1,1101 @@
+[
+  {
+    "topicId": "14",
+    "subTopicId": "0",
+    "assetId": "5177977873638151554",
+    "data": [
+      {
+        "researcher_id": "ur.01042576367.12",
+        "community": 10,
+        "pagerank": 0.00014767945265746057,
+        "first_name": "Hong",
+        "last_name": "Xu",
+        "affiliation": "Lu Thai Textile Co., LTD, Zibo, 255000, China",
+        "year": 2021,
+        "month": 11,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.011745057211.42",
+        "community": 10,
+        "pagerank": 9.8881828175817561e-5,
+        "first_name": "Xinyi",
+        "last_name": "Chen",
+        "affiliation": "The Key Laboratory of Advanced Textile Materials and Manufacturing Technology of Ministry of Education",
+        "year": 2021,
+        "month": 7,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Synthesis and Characterisation" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.010016551203.26",
+        "community": 10,
+        "pagerank": 0.00013127806805412448,
+        "first_name": "Shanqiu",
+        "last_name": "Liu",
+        "affiliation": "Department of Chemistry, University of Zurich, Winterthurerstrasse 190, CH-8057 Zurich, Switzerland",
+        "year": 2021,
+        "month": 3,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Synthesis and Characterisation" },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.01164024304.25",
+        "community": 10,
+        "pagerank": 0.00011580145808938462,
+        "first_name": "Jinying",
+        "last_name": "Yuan",
+        "affiliation": "Department of Chemistry, The Tsinghua Center for Frontier Polymer Research, Tsinghua University, Beijing, 100084, PR China",
+        "year": 2021,
+        "month": 12,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.01213376771.35",
+        "community": 10,
+        "pagerank": 0.0001224543455780054,
+        "first_name": "Feiping",
+        "last_name": "Zhao",
+        "affiliation": "Chinese National Engineering Research Center for Control Treatment of Heavy Metal Pollution, Institute of Environmental Engineering, School of Metallurgy and Environment, Central South University, Changsha, Hunan, China",
+        "year": 2021,
+        "month": 12,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Absorption Applications" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.01036240574.49",
+        "community": 10,
+        "pagerank": 0.00016119340825556373,
+        "first_name": "Juntao",
+        "last_name": "Tang",
+        "affiliation": "College of Chemistry and Chemical Engineering, Central South University, Changsha 410083, China",
+        "year": 2021,
+        "month": 12,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Absorption Applications" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.012217471543.41",
+        "community": 10,
+        "pagerank": 0.00010689038909796351,
+        "first_name": "Wenya",
+        "last_name": "Zhang",
+        "affiliation": "Key Lab of Science and Technology of Eco‐textile, Ministry of Education, College of Chemistry, Chemical Engineering and Biotechnology, Innovation Center for Textile Science and Technology, Donghua University, Shanghai, China",
+        "year": 2021,
+        "month": 4,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.013110364143.51",
+        "community": 10,
+        "pagerank": 0.00014767945265743083,
+        "first_name": "Peiwen",
+        "last_name": "Zhou",
+        "affiliation": "Key Lab of Science Technology of Eco-Textile, Ministry of Education, College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, Shanghai, 201620, China",
+        "year": 2021,
+        "month": 4,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.011711135317.08",
+        "community": 10,
+        "pagerank": 0.00014767945265740012,
+        "first_name": "Yimeng",
+        "last_name": "Ma",
+        "affiliation": "Key Lab of Science and Technology of Eco‐textile, Ministry of Education, College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, Shanghai, China",
+        "year": 2021,
+        "month": 10,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.015072776531.90",
+        "community": 10,
+        "pagerank": 0.0003808035533423526,
+        "first_name": "Zhiping",
+        "last_name": "Mao",
+        "affiliation": "Key Lab of Science & Technology of Eco-Textile, Ministry of Education, College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, Shanghai 201620, People's Republic of China; Innovation Center for Textile Science and Technology of DHU, Donghua University, Shanghai 201620, People's Republic of China; National Engineering Research Center for Dyeing and Finishing of Textiles, Donghua University, Shanghai 201620, People's Republic of China.",
+        "year": 2021,
+        "month": 11,
+        "articles": 6,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.0722073243.25",
+        "community": 10,
+        "pagerank": 0.00038080355334238003,
+        "first_name": "Xiaofeng",
+        "last_name": "Sui",
+        "affiliation": "Key Lab of Science Technology of Eco-textile, Ministry of Education, College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, Shanghai 201620, China",
+        "year": 2021,
+        "month": 12,
+        "articles": 6,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.012422327747.53",
+        "community": 10,
+        "pagerank": 0.00010713494961300866,
+        "first_name": "Xiang",
+        "last_name": "Li",
+        "affiliation": "Key Lab of Science and Technology of Eco‐textile, Ministry of Education, College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, Shanghai, China",
+        "year": 2021,
+        "month": 11,
+        "articles": 1,
+        "categories": [
+          {
+            "name": "Subtopics",
+            "segment": "Thermal and Mechanical Properties"
+          },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.012643426524.25",
+        "community": 10,
+        "pagerank": 0.00011580145808941464,
+        "first_name": "Liqian",
+        "last_name": "Zhu",
+        "affiliation": "Key Lab of Science & Technology of Eco-textile, Ministry of Education, College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, Shanghai, 201620, China",
+        "year": 2018,
+        "month": 7,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.015303774471.09",
+        "community": 10,
+        "pagerank": 0.0001220367157843284,
+        "first_name": "Yating",
+        "last_name": "Wang",
+        "affiliation": "Key Lab of Science and Technology of Eco-Textile, Ministry of Education, College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, Shanghai 201620, People’s Republic of China",
+        "year": 2021,
+        "month": 8,
+        "articles": 2,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.01263014360.25",
+        "community": 10,
+        "pagerank": 0.00025203483752911084,
+        "first_name": "Bijia",
+        "last_name": "Wang",
+        "affiliation": "Key Lab of Science & Technology of Eco-Textile, Ministry of Education, College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, No. 2999 North Renmin Road, Shanghai, 201620, China",
+        "year": 2021,
+        "month": 11,
+        "articles": 4,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.012604217077.84",
+        "community": 10,
+        "pagerank": 0.00014767945265733577,
+        "first_name": "Yi",
+        "last_name": "Zhong",
+        "affiliation": "Key Lab of Science & Technology of Eco-Textile, Ministry of Education, College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, No. 2999 North Renmin Road, Shanghai, 201620, China",
+        "year": 2021,
+        "month": 11,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.011422111143.83",
+        "community": 10,
+        "pagerank": 0.00013716878630100238,
+        "first_name": "Kuankuan",
+        "last_name": "Liu",
+        "affiliation": "Key Lab of Science and Technology of Eco‐Textile, Ministry of Education, College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, Shanghai, 201620, China",
+        "year": 2021,
+        "month": 10,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.016321366277.80",
+        "community": 10,
+        "pagerank": 0.00014767945265736846,
+        "first_name": "Linping",
+        "last_name": "Zhang",
+        "affiliation": "Key Lab of Science & Technology of Eco-Textile, Ministry of Education, College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, No. 2999 North Renmin Road, Shanghai, 201620, China",
+        "year": 2021,
+        "month": 11,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.010211466251.72",
+        "community": 10,
+        "pagerank": 0.00015219817630408169,
+        "first_name": "Huan",
+        "last_name": "Cheng",
+        "affiliation": "Key Lab of Science Technology of Eco-textile, Ministry of Education, College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, Shanghai 201620, China",
+        "year": 2021,
+        "month": 12,
+        "articles": 3,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.010201745717.05",
+        "community": 10,
+        "pagerank": 0.00014767945265748935,
+        "first_name": "Zixuan",
+        "last_name": "Ma",
+        "affiliation": "Key Lab of Science and Technology of Eco-textile, Ministry of Education, College of Chemistry, Chemical Engineering and Biotechnology, Innovation Center for Textile Science and Technology, Donghua University, Shanghai 201620, China",
+        "year": 2021,
+        "month": 3,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.013372237640.70",
+        "community": 10,
+        "pagerank": 0.00013127806805415579,
+        "first_name": "Lingli",
+        "last_name": "Liu",
+        "affiliation": "Key Lab of Science and Technology of Eco-textile, Ministry of Education, College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, Shanghai, 201620, China",
+        "year": 2021,
+        "month": 9,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Synthesis and Characterisation" },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.01106371443.48",
+        "community": 10,
+        "pagerank": 0.00025203483752908297,
+        "first_name": "Xueling",
+        "last_name": "Feng",
+        "affiliation": "Key Lab of Science & Technology of Eco-Textile, Ministry of Education, College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, No. 2999 North Renmin Road, Shanghai, 201620, China",
+        "year": 2021,
+        "month": 11,
+        "articles": 4,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.015070034510.44",
+        "community": 10,
+        "pagerank": 0.00013127806805418585,
+        "first_name": "Chang",
+        "last_name": "Wang",
+        "affiliation": "Key Lab of Science Technology of Eco-textile, Ministry of Education, College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, Shanghai 201620, China",
+        "year": 2019,
+        "month": 6,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Synthesis and Characterisation" },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.015321763327.03",
+        "community": 10,
+        "pagerank": 0.00013687584974716272,
+        "first_name": "Luying",
+        "last_name": "Chen",
+        "affiliation": "Key Lab of Science and Technology of Eco-textile, Ministry of Education, College of Chemistry, Chemical Engineering and Biotechnology, Donghua University, Shanghai, 201620, People’s Republic of China",
+        "year": 2021,
+        "month": 8,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.0737131365.04",
+        "community": 10,
+        "pagerank": 0.00016485664220406752,
+        "first_name": "Xiuping",
+        "last_name": "Su",
+        "affiliation": "Shaoxing University Yuanpei College, Shaoxing, Zhejiang 312000, China.",
+        "year": 2020,
+        "month": 9,
+        "articles": 2,
+        "categories": [
+          { "name": "Subtopics", "segment": "Absorption Applications" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.010005712216.54",
+        "community": 10,
+        "pagerank": 0.00021263982439199017,
+        "first_name": "Yuhang",
+        "last_name": "Wu",
+        "affiliation": "Institute of Functional Porous Materials, School of Materials Science and Engineering, Zhejiang Sci-Tech University, Hangzhou 310018, China",
+        "year": 2021,
+        "month": 5,
+        "articles": 3,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.010345457005.15",
+        "community": 10,
+        "pagerank": 0.00015591863607049129,
+        "first_name": "Shunli",
+        "last_name": "Wang",
+        "affiliation": "Center for Optoelectronics Materials and Devices Key Laboratory of Optical Field Manipulation of Zhejiang Province, Department of Physics, Zhejiang Sci-Tech University, Hangzhou, 310018, China",
+        "year": 2021,
+        "month": 10,
+        "articles": 2,
+        "categories": [
+          { "name": "Subtopics", "segment": "Absorption Applications" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.07427024073.01",
+        "community": 10,
+        "pagerank": 0.00011033603282929879,
+        "first_name": "Yuwen",
+        "last_name": "Li",
+        "affiliation": "School of Materials Science and Engineering, Zhejiang Sci-Tech University, Hangzhou, 310018, China",
+        "year": 2020,
+        "month": 11,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.015153266544.57",
+        "community": 10,
+        "pagerank": 0.00028277174358837487,
+        "first_name": "Yingzhan",
+        "last_name": "Li",
+        "affiliation": "Key Laboratory of Advanced Textile Materials and Manufacturing Technology, Ministry of Education, Zhejiang Provincial Key Laboratory of Fiber Materials and Manufacturing Technology, Zhejiang Sci-Tech University, Xiasha Higher Education Park Avenue 2 No.928, Hangzhou 310018, China. Electronic address: yingzhanli@zstu.edu.cn.",
+        "year": 2021,
+        "month": 10,
+        "articles": 4,
+        "categories": [
+          { "name": "Subtopics", "segment": "Synthesis and Characterisation" },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.014177372643.86",
+        "community": 10,
+        "pagerank": 0.00011411842974289098,
+        "first_name": "Yanan",
+        "last_name": "Ma",
+        "affiliation": "School of Materials Science and Engineering, Zhejiang Sci-Tech University, 928 Second Avenue, Xiasha Higher Education Park, 310018, Hangzhou, China",
+        "year": 2021,
+        "month": 3,
+        "articles": 1,
+        "categories": [
+          {
+            "name": "Subtopics",
+            "segment": "Thermal and Mechanical Properties"
+          },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.010115371110.62",
+        "community": 10,
+        "pagerank": 0.00012607954066165512,
+        "first_name": "Jiping",
+        "last_name": "Gu",
+        "affiliation": "The Key Laboratory of Advanced Textile Materials and Manufacturing Technology of Ministry of Education, College of Materials and Textile, Zhejiang Sci-Tech University, Xiasha Higher Education Park 2 Avenue-5, Hangzhou 310018, China",
+        "year": 2019,
+        "month": 2,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.015614233577.56",
+        "community": 10,
+        "pagerank": 0.00016485664220400523,
+        "first_name": "Zhouqi",
+        "last_name": "Qian",
+        "affiliation": "The Key Laboratory of Advanced Textile Materials and Manufacturing Technology of Ministry of Education, College of Materials and Textiles, Zhejiang Sci-Tech University, Hangzhou 310018, China",
+        "year": 2020,
+        "month": 2,
+        "articles": 2,
+        "categories": [
+          { "name": "Subtopics", "segment": "Absorption Applications" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.014011022771.87",
+        "community": 10,
+        "pagerank": 0.00010303620897258428,
+        "first_name": "Yili",
+        "last_name": "Zheng",
+        "affiliation": "Institute of Functional Porous Materials, School of Materials Science and Engineering, Zhejiang Sci-Tech University, Hangzhou, 310018, China",
+        "year": 2021,
+        "month": 12,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.016106334537.42",
+        "community": 10,
+        "pagerank": 9.8881828175876839e-5,
+        "first_name": "Mengya",
+        "last_name": "Mu",
+        "affiliation": "Key Laboratory of Advanced Textile Materials and Manufacturing Technology, Ministry of Education, Zhejiang Provincial Key Laboratory of Fiber Materials and Manufacturing Technology, Zhejiang Sci-Tech University, Xiasha Higher Education Park Avenue 2 No. 928, Hangzhou, 310018, China",
+        "year": 2021,
+        "month": 7,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Synthesis and Characterisation" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.011077365143.50",
+        "community": 10,
+        "pagerank": 5.7698483562634029e-5,
+        "first_name": "Yucong",
+        "last_name": "Yu",
+        "affiliation": "College of Textile Science and Engineering, Zhejiang Sci-Tech University, 928 Second Avenue, Xiasha Higher Education Park, 310018, Hangzhou, China",
+        "year": 2020,
+        "month": 10,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.012670116043.06",
+        "community": 10,
+        "pagerank": 0.00013878102736446303,
+        "first_name": "Somia Yassin Hussain",
+        "last_name": "Abdalkarim",
+        "affiliation": "Key Laboratory of Advanced Textile Materials and Manufacturing Technology, Ministry of Education, Zhejiang Provincial Key Laboratory of Fiber Materials and Manufacturing Technology, Zhejiang Sci-Tech University, Xiasha Higher Education Park Avenue 2 No.928, Hangzhou 310018, China.",
+        "year": 2021,
+        "month": 10,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Absorption Applications" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.011712723100.72",
+        "community": 10,
+        "pagerank": 0.00015591863607055721,
+        "first_name": "Chao",
+        "last_name": "Lei",
+        "affiliation": "Institute of Fiber Based New Energy Materials, The Key Laboratory of Advanced Textile Materials and Manufacturing Technology of Ministry of Education, College of Materials and Textiles, Zhejiang Sci-Tech University, Hangzhou 310018, China",
+        "year": 2019,
+        "month": 6,
+        "articles": 3,
+        "categories": [
+          { "name": "Subtopics", "segment": "Absorption Applications" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.014354400645.72",
+        "community": 10,
+        "pagerank": 0.00014254101295891098,
+        "first_name": "Feng",
+        "last_name": "Tang",
+        "affiliation": "The Key Laboratory of Advanced Textile Materials and Manufacturing Technology of Ministry of Education, Zhejiang Sci-Tech University, Hangzhou, 310018, China",
+        "year": 2020,
+        "month": 11,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Carbon-based Aerogels" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.012626331577.09",
+        "community": 10,
+        "pagerank": 0.00024755945380979574,
+        "first_name": "Lin",
+        "last_name": "Liu",
+        "affiliation": "School of Materials Science and Engineering, Zhejiang Sci-Tech University, 928 Second Avenue, Xiasha Higher Education Park, Hangzhou 310018, China",
+        "year": 2021,
+        "month": 12,
+        "articles": 4,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.07545112203.24",
+        "community": 10,
+        "pagerank": 9.1673949207504319e-5,
+        "first_name": "Fangyuan",
+        "last_name": "Zhong",
+        "affiliation": "Institute of Fiber Based New Energy Materials, The Key Laboratory of Advanced Textile Materials and Manufacturing Technology of Ministry of Education, School of Materials Science and Engineering, Zhejiang Sci-Tech University, Hangzhou, 310018, China",
+        "year": 2020,
+        "month": 10,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Absorption Applications" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.011067154365.15",
+        "community": 10,
+        "pagerank": 0.00010303620897264605,
+        "first_name": "Jinguli",
+        "last_name": "Wen",
+        "affiliation": "Institute of Functional Porous Materials, School of Materials Science and Engineering, Zhejiang Sci‐Tech University, 310018, Hangzhou, P. R. China",
+        "year": 2020,
+        "month": 8,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.012572246262.43",
+        "community": 10,
+        "pagerank": 0.00012607954066168664,
+        "first_name": "Xuemeng",
+        "last_name": "Fan",
+        "affiliation": "The Key Laboratory of Advanced Textile Materials and Manufacturing Technology of Ministry of Education, Zhejiang Sci-Tech University, Hangzhou 310018, China",
+        "year": 2020,
+        "month": 9,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.016321601043.02",
+        "community": 10,
+        "pagerank": 0.0001141184297429523,
+        "first_name": "Xiaolei",
+        "last_name": "Luo",
+        "affiliation": "College of Textile Science and Engineering, Zhejiang Sci-Tech University, 928 Second Avenue, Xiasha Higher Education Park, 310018, Hangzhou, China",
+        "year": 2021,
+        "month": 3,
+        "articles": 1,
+        "categories": [
+          {
+            "name": "Subtopics",
+            "segment": "Thermal and Mechanical Properties"
+          },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.012510303500.34",
+        "community": 10,
+        "pagerank": 0.00019358533680460962,
+        "first_name": "Yuanbo",
+        "last_name": "Xie",
+        "affiliation": "Institute of Fiber Based New Energy Materials, The Key Laboratory of Advanced Textile Materials and Manufacturing Technology of Ministry of Education, School of Materials Science and Engineering, Zhejiang Sci-Tech University, Hangzhou, 310018, China",
+        "year": 2020,
+        "month": 10,
+        "articles": 4,
+        "categories": [
+          { "name": "Subtopics", "segment": "Absorption Applications" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.013231075105.16",
+        "community": 10,
+        "pagerank": 0.00012844256885246436,
+        "first_name": "Wen-Jing",
+        "last_name": "Zhu",
+        "affiliation": "The Key Laboratory of Advanced Textile Materials and Manufacturing Technology of Ministry of Education, College of Materials and Textiles, Zhejiang Sci-Tech University, 928 Second Avenue, Xiasha Higher Education Park, Hangzhou, 310018, China",
+        "year": 2018,
+        "month": 1,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.07545635255.71",
+        "community": 10,
+        "pagerank": 0.00010303620897261616,
+        "first_name": "Huajian",
+        "last_name": "Liu",
+        "affiliation": "Institute of Functional Porous Materials, School of Materials Science and Engineering, Zhejiang Sci-Tech University, Hangzhou, 310018, China",
+        "year": 2021,
+        "month": 11,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.014624036105.59",
+        "community": 10,
+        "pagerank": 0.00012844256885249792,
+        "first_name": "Wei",
+        "last_name": "Hua",
+        "affiliation": "The Key Laboratory of Advanced Textile Materials and Manufacturing Technology of Ministry of Education, College of Materials and Textiles, Zhejiang Sci-Tech University, Hangzhou 310018, China",
+        "year": 2016,
+        "month": null,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.013132660561.37",
+        "community": 10,
+        "pagerank": 0.00014254101295897584,
+        "first_name": "Duan-Chao",
+        "last_name": "Wang",
+        "affiliation": "National Engineering Lab for Textile Fiber Materials & Processing Technology, College of Textile Science and Engineering, Zhejiang Sci-Tech University, Hangzhou, 310018 China",
+        "year": 2021,
+        "month": 9,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Carbon-based Aerogels" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.011233370577.15",
+        "community": 10,
+        "pagerank": 0.00016485664220403695,
+        "first_name": "Qian",
+        "last_name": "Liao",
+        "affiliation": "The Key Laboratory of Advanced Textile Materials and Manufacturing Technology of Ministry of Education, College of Materials and Textiles, Zhejiang Sci-Tech University, Hangzhou 310018, China",
+        "year": 2017,
+        "month": 3,
+        "articles": 2,
+        "categories": [
+          { "name": "Subtopics", "segment": "Absorption Applications" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.012061607326.88",
+        "community": 10,
+        "pagerank": 0.00021171391571918587,
+        "first_name": "Wenjing",
+        "last_name": "Ren",
+        "affiliation": "School of Materials Science and Engineering, Zhejiang Sci-Tech University, Hangzhou, 310018, China",
+        "year": 2020,
+        "month": 11,
+        "articles": 4,
+        "categories": [
+          { "name": "Subtopics", "segment": "Absorption Applications" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.016237056467.52",
+        "community": 10,
+        "pagerank": 0.00011033603282926727,
+        "first_name": "Xiaogang",
+        "last_name": "Yang",
+        "affiliation": "Key Laboratory of Advanced Textile Materials and Manufacturing Technology, Ministry of Education, Zhejiang Provincial Key Laboratory of Fiber Materials and Manufacturing Technology, Zhejiang Sci-Tech University, Xiasha Higher Education Park Avenue 2 No.928, Hangzhou 310018, China.",
+        "year": 2021,
+        "month": 10,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.010556243166.86",
+        "community": 10,
+        "pagerank": 0.00011411842974292246,
+        "first_name": "Junyan",
+        "last_name": "Shen",
+        "affiliation": "School of Materials Science and Engineering, Zhejiang Sci-Tech University, 310018, Hangzhou, China",
+        "year": 2020,
+        "month": 2,
+        "articles": 1,
+        "categories": [
+          {
+            "name": "Subtopics",
+            "segment": "Thermal and Mechanical Properties"
+          },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.07766441335.33",
+        "community": 10,
+        "pagerank": 9.8881828175848135e-5,
+        "first_name": "Ziheng",
+        "last_name": "Li",
+        "affiliation": "National Engineering Lab for Textile Fiber Materials & Processing Technology, College of Textile Science and Engineering, Zhejiang Sci-Tech University, Hangzhou, 310018, China",
+        "year": 2021,
+        "month": 7,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Synthesis and Characterisation" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.010712751510.59",
+        "community": 10,
+        "pagerank": 0.00012607954066162216,
+        "first_name": "Shounuan",
+        "last_name": "Ye",
+        "affiliation": "College of Materials and Textile, Zhejiang Sci-Tech University, 310018, Hangzhou, China",
+        "year": 2018,
+        "month": 7,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.01017330423.30",
+        "community": 10,
+        "pagerank": 0.00013878102736450125,
+        "first_name": "Yurong",
+        "last_name": "Cai",
+        "affiliation": "The Key Laboratory of Advanced Textile Materials and Manufacturing Technology of Ministry of Education, National Engineering Lab for Textile Fiber Materials and Processing Technology, School of Materials Science and Engineering, Zhejiang Sci-Tech University, Hangzhou 310018, China",
+        "year": 2021,
+        "month": 11,
+        "articles": 2,
+        "categories": [
+          { "name": "Subtopics", "segment": "Absorption Applications" },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.015166144506.33",
+        "community": 10,
+        "pagerank": 0.00012607954066171673,
+        "first_name": "Duanchao",
+        "last_name": "Wang",
+        "affiliation": "Key Laboratory of Advanced Textile Materials and Manufacturing Technology, Ministry of Education, Zhejiang Provincial Key Laboratory of Fiber Materials and Manufacturing Technology, Zhejiang Sci-Tech University, Xiasha Higher Education Park Avenue 2 No.928, Hangzhou, 310018, China",
+        "year": 2020,
+        "month": 9,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Oil-Water Separation" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.01001213560.04",
+        "community": 10,
+        "pagerank": 0.00029371186293976868,
+        "first_name": "Houyong",
+        "last_name": "Yu",
+        "affiliation": "Key Laboratory of Advanced Textile Materials and Manufacturing Technology, Ministry of Education, School of Materials Science and Engineering, Zhejiang Sci-Tech University, Xiasha Higher Education Park Avenue 2 No. 928, Hangzhou, 310018, China",
+        "year": 2021,
+        "month": 12,
+        "articles": 4,
+        "categories": [
+          { "name": "Subtopics", "segment": "Carbon-based Aerogels" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.0737752064.06",
+        "community": 10,
+        "pagerank": 0.00069531163592444819,
+        "first_name": "Juming",
+        "last_name": "Yao",
+        "affiliation": "School of Materials Science and Engineering, Zhejiang Sci-Tech University, 928 Second Avenue, Xiasha Higher Education Park, Hangzhou, 310018, China",
+        "year": 2021,
+        "month": 12,
+        "articles": 11,
+        "categories": [
+          { "name": "Subtopics", "segment": "Absorption Applications" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.0742765503.20",
+        "community": 10,
+        "pagerank": 0.00033223852368391974,
+        "first_name": "Qing-Qing",
+        "last_name": "Ni",
+        "affiliation": "Key Laboratory of Advanced Textile Materials and Manufacturing Technology, Ministry of Education, Zhejiang Sci-Tech University, Hangzhou 310018, Zhejiang, China",
+        "year": 2021,
+        "month": 12,
+        "articles": 5,
+        "categories": [
+          { "name": "Subtopics", "segment": "Absorption Applications" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.01023100323.02",
+        "community": 10,
+        "pagerank": 0.00022574913785295705,
+        "first_name": "Dongming",
+        "last_name": "Qi",
+        "affiliation": "Key Laboratory of Advanced Textile Materials and Manufacturing Technology, Ministry of Education, Zhejiang Sci‐Tech University, Hangzhou, P. R. China",
+        "year": 2021,
+        "month": 12,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Carbon-based Aerogels" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.014221272577.78",
+        "community": 10,
+        "pagerank": 0.00018656131836454023,
+        "first_name": "Ranju",
+        "last_name": "Meng",
+        "affiliation": "School of Materials Science and Engineering, Zhejiang Sci-Tech University, 310018, Hangzhou, China",
+        "year": 2021,
+        "month": 10,
+        "articles": 2,
+        "categories": [
+          {
+            "name": "Subtopics",
+            "segment": "Thermal and Mechanical Properties"
+          },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.014106216777.49",
+        "community": 10,
+        "pagerank": 0.00035961433951245332,
+        "first_name": "Ju",
+        "last_name": "Gao",
+        "affiliation": "Jiangsu Key Laboratory of Micro and Nano Heat Fluid Flow Technology and Energy Application, School of Physical Science and Technology, Suzhou University of Science and Technology, Suzhou 215009, China",
+        "year": 2021,
+        "month": 12,
+        "articles": 6,
+        "categories": [
+          { "name": "Subtopics", "segment": "Absorption Applications" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.016074764415.57",
+        "community": 10,
+        "pagerank": 0.00012245434557794609,
+        "first_name": "Juliana",
+        "last_name": "da Silva Bernardes",
+        "affiliation": "Brazilian Nanotechnology National Laboratory (LNNano), Brazilian Center for Research in Energy and Materials (CNPEM), Campinas, Sao Paulo, Brazil, 13083-970",
+        "year": 2019,
+        "month": 10,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Absorption Applications" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.01170621716.02",
+        "community": 10,
+        "pagerank": 0.00055405343435511989,
+        "first_name": "Kam Chiu",
+        "last_name": "Tam",
+        "affiliation": "Department of Chemical Engineering, Waterloo Institute for Nanotechnology, University of Waterloo, 200 University Avenue West, Waterloo, Ontario N2L 3G1 Canada",
+        "year": 2021,
+        "month": 9,
+        "articles": 5,
+        "categories": [
+          {
+            "name": "Subtopics",
+            "segment": "Thermal and Mechanical Properties"
+          },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.016126450015.07",
+        "community": 10,
+        "pagerank": 0.000122454345577914,
+        "first_name": "Yang",
+        "last_name": "Song",
+        "affiliation": "Department of Chemical Engineering, Waterloo Institute for Nanotechnology, University of Waterloo, 200 University Avenue West, Waterloo, ON, N2L 3G1, Canada.",
+        "year": 2018,
+        "month": 12,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Absorption Applications" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.0670155000.17",
+        "community": 10,
+        "pagerank": 0.00014254101295894405,
+        "first_name": "Mohankandhasamy",
+        "last_name": "Ramasamy",
+        "affiliation": "Department of Chemical Engineering, Waterloo Institute for Nanotechnology, University of Waterloo, 200 University Avenue, Waterloo, ON N2L 3G1, Canada",
+        "year": 2021,
+        "month": 4,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Carbon-based Aerogels" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.015610722750.02",
+        "community": 10,
+        "pagerank": 9.1965290791600155e-5,
+        "first_name": "Chunxia",
+        "last_name": "Tang",
+        "affiliation": "Department of Chemical Engineering, Waterloo Institute for Nanotechnology, University of Waterloo, 200 University Avenue, Waterloo, ON N2L 3G1, Canada",
+        "year": 2020,
+        "month": 7,
+        "articles": 1,
+        "categories": [
+          {
+            "name": "Subtopics",
+            "segment": "Thermal and Mechanical Properties"
+          },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.01116053577.09",
+        "community": 10,
+        "pagerank": 0.00024424385190200234,
+        "first_name": "Nathan",
+        "last_name": "Grishkewich",
+        "affiliation": "Department of Chemical Engineering, Waterloo Institute for Nanotechnology, University of Waterloo, 200 University Avenue West, Waterloo, Ontario, N2L 3G1, Canada",
+        "year": 2020,
+        "month": 11,
+        "articles": 3,
+        "categories": [
+          {
+            "name": "Subtopics",
+            "segment": "Thermal and Mechanical Properties"
+          },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.016406303350.47",
+        "community": 10,
+        "pagerank": 0.00012245434557797656,
+        "first_name": "Stewart",
+        "last_name": "Spinney",
+        "affiliation": "Department of Chemical Engineering, Waterloo Institute for Nanotechnology, University of Waterloo, 200 University Avenue West, Waterloo, ON, N2L 3G1, Canada.",
+        "year": 2018,
+        "month": 12,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Absorption Applications" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      },
+      {
+        "researcher_id": "ur.010200033565.09",
+        "community": 10,
+        "pagerank": 9.1965290791571247e-5,
+        "first_name": "Pritika",
+        "last_name": "Brodie",
+        "affiliation": "Department of Chemical Engineering, Waterloo Institute for Nanotechnology, University of Waterloo, 200 University Avenue, Waterloo, ON N2L 3G1, Canada",
+        "year": 2020,
+        "month": 7,
+        "articles": 1,
+        "categories": [
+          {
+            "name": "Subtopics",
+            "segment": "Thermal and Mechanical Properties"
+          },
+          { "name": "Field of Study", "segment": "Engineering and Aplications" }
+        ]
+      },
+      {
+        "researcher_id": "ur.07706542777.75",
+        "community": 10,
+        "pagerank": 0.00012786621833279545,
+        "first_name": "Huiying",
+        "last_name": "Gao",
+        "affiliation": "Jiaxing Vocational Technical College, 314036, Jiaxing, China",
+        "year": 2019,
+        "month": 4,
+        "articles": 1,
+        "categories": [
+          { "name": "Subtopics", "segment": "Absorption Applications" },
+          { "name": "Field of Study", "segment": "Chemical Sciences" }
+        ]
+      }
+    ]
+  }
+]

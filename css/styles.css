@@ -1,0 +1,148 @@
+body {
+    /* font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; */
+    font-family: 'Arial';
+    margin: 0px;
+    position: relative;
+    font-size: 14px;
+    /* width: 960px; */
+}
+
+svg {
+    width: 100vw;
+    height: 100vh;
+}
+
+#reset {
+    padding: 150px, 0px, 0px, 125px !important;
+}
+
+.reset:hover {
+    cursor: pointer;
+}
+
+.node:hover {
+    cursor: pointer;
+}
+
+.link:hover {
+    cursor: pointer;
+}
+
+form {
+    text-align: center;
+    margin: 25px;
+}
+
+
+#slider-range, .slider-range {
+    margin-left: 0px;
+    margin-right: 50px;
+}
+
+.outsideRange {
+    pointer-events: none;
+}
+
+.ui-slider-tick-mark {
+    display: inline-block;
+    width: 2px;
+    background: #c5c5c5;
+    height: 4px;
+    position: absolute;
+    top: -4px;
+}
+
+.selectorDiv {
+    width: 49%;
+    height: auto;
+    display: inline-block;
+}
+
+.hide {
+    display: none;
+}
+
+
+
+.blueHighlight {
+    color: #0070a8;
+    font-weight: bold;
+}
+
+.orangeHighlight {
+    color: #c75301;
+    font-weight: bold;
+}
+
+.instructions {
+    width: 50%;
+    margin: 50px auto;
+
+}
+
+.instruction {
+    font-size: 2.0rem;
+    font-weight: bold;
+}
+
+.instructionsList {
+    margin-bottom: 10px;
+}
+
+.submitTopic {
+    margin: 50px;
+}
+
+.mask {
+    width: 100%;
+    height: auto;
+    background-color: #FFF;
+    opacity: 0.95;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+
+.hide {
+    display: none;
+}
+
+
+.container {
+    margin-top: 0%;
+}
+
+
+.box {
+    width: 300px;
+    border: 1px solid #000;
+    margin: 50px;
+    cursor: pointer;
+}
+
+.toggle-container {
+    transition: height 0.35s ease-in-out;
+    overflow: hidden;
+}
+
+.toggle-container:not(.active) {
+    display: none;
+}
+
+.instructionLabel {
+    font-size: 10px;
+    font-weight: bold;
+    text-align: left;
+    margin: 0px;
+    border-style: solid;
+    padding: 2px;
+    border-color: #000;
+}
+
+.instructionLabel:hover {
+    cursor: pointer;
+}
+
+.radioButtonLabel {
+    font-weight: bold;
+}

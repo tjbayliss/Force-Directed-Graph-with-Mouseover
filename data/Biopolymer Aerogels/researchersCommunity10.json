@@ -1,0 +1,822 @@
+[
+  {
+    "researcher_id": "ur.010726255417.58",
+    "community": 10,
+    "pagerank": 0.0003107753537451236,
+    "first_name": "Tianliang",
+    "last_name": "Zhai",
+    "affiliation": "Guizhou Education University | Guiyang University",
+    "countries": "China",
+    "year": 2022,
+    "month": 1,
+    "articles": 4,
+    "categories": [{ "name": "Subtopics", "segment": "Oil-Water Separation" }]
+  },
+  {
+    "researcher_id": "ur.010412742215.11",
+    "community": 10,
+    "pagerank": 0.00022908535755328987,
+    "first_name": "Qing",
+    "last_name": "Zhang",
+    "affiliation": "Hunan University of Technology",
+    "countries": "China",
+    "year": 2020,
+    "month": 8,
+    "articles": 1,
+    "categories": [{ "name": "Subtopics", "segment": "Oil-Water Separation" }]
+  },
+  {
+    "researcher_id": "ur.012215346273.92",
+    "community": 10,
+    "pagerank": 0.00022908535755323213,
+    "first_name": "Pei-Yong",
+    "last_name": "Feng",
+    "affiliation": "Hunan University of Technology",
+    "countries": "China",
+    "year": 2021,
+    "month": 9,
+    "articles": 1,
+    "categories": [{ "name": "Subtopics", "segment": "Oil-Water Separation" }]
+  },
+  {
+    "researcher_id": "ur.016364213176.59",
+    "community": 10,
+    "pagerank": 0.00022908535755334508,
+    "first_name": "Heng",
+    "last_name": "Li",
+    "affiliation": "Hong Kong Polytechnic University",
+    "countries": "China",
+    "year": 2022,
+    "month": 3,
+    "articles": 1,
+    "categories": [{ "name": "Subtopics", "segment": "Oil-Water Separation" }]
+  },
+  {
+    "researcher_id": "ur.010655121725.28",
+    "community": 10,
+    "pagerank": 0.00022908535755310886,
+    "first_name": "Yuejun",
+    "last_name": "Liu",
+    "affiliation": "Hunan University of Technology",
+    "countries": "China",
+    "year": 2022,
+    "month": 3,
+    "articles": 1,
+    "categories": [{ "name": "Subtopics", "segment": "Oil-Water Separation" }]
+  },
+  {
+    "researcher_id": "ur.015572641146.28",
+    "community": 10,
+    "pagerank": 0.00022908535755317185,
+    "first_name": "Ping",
+    "last_name": "He",
+    "affiliation": "Huazhong Agricultural University",
+    "countries": "China",
+    "year": 2021,
+    "month": 11,
+    "articles": 1,
+    "categories": [{ "name": "Subtopics", "segment": "Oil-Water Separation" }]
+  },
+  {
+    "researcher_id": "ur.013446502173.13",
+    "community": 10,
+    "pagerank": 6.084798814931456e-5,
+    "first_name": "Mariano",
+    "last_name": "Sirignano",
+    "affiliation": "University of Naples Federico II",
+    "countries": "Italy",
+    "year": 2021,
+    "month": 11,
+    "articles": 1,
+    "categories": [{ "name": "Subtopics", "segment": "Oil-Water Separation" }]
+  },
+  {
+    "researcher_id": "ur.015204361355.60",
+    "community": 10,
+    "pagerank": 0.00012692980458258162,
+    "first_name": "Han-Xiong",
+    "last_name": "Huang",
+    "affiliation": "South China University of Technology",
+    "countries": "China",
+    "year": 2021,
+    "month": 10,
+    "articles": 2,
+    "categories": [
+      { "name": "Subtopics", "segment": "Oil-Water Separation" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.0652201315.66",
+    "community": 10,
+    "pagerank": 0.0002939317913201459,
+    "first_name": "Xin",
+    "last_name": "Jing",
+    "affiliation": "Hunan University of Technology",
+    "countries": "China",
+    "year": 2022,
+    "month": 3,
+    "articles": 3,
+    "categories": [
+      { "name": "Subtopics", "segment": "Oil-Water Separation" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01327472215.43",
+    "community": 10,
+    "pagerank": 0.00029393179132019897,
+    "first_name": "Hao-Yang",
+    "last_name": "Mi",
+    "affiliation": "Hunan University of Technology | Zhengzhou University",
+    "countries": "China",
+    "year": 2022,
+    "month": 3,
+    "articles": 3,
+    "categories": [
+      { "name": "Subtopics", "segment": "Oil-Water Separation" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01027321625.11",
+    "community": 10,
+    "pagerank": 0.0004276401138055138,
+    "first_name": "Shaoqin",
+    "last_name": "Gong",
+    "affiliation": "University of Wisconsin\u2013Madison",
+    "countries": "United States",
+    "year": 2022,
+    "month": 2,
+    "articles": 8,
+    "categories": [
+      { "name": "Subtopics", "segment": "Oil-Water Separation" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01241754431.83",
+    "community": 10,
+    "pagerank": 0.00042764011380555934,
+    "first_name": "Qifeng",
+    "last_name": "Zheng",
+    "affiliation": "South China Normal University",
+    "countries": "China",
+    "year": 2021,
+    "month": 7,
+    "articles": 8,
+    "categories": [
+      { "name": "Subtopics", "segment": "Oil-Water Separation" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.0625430004.30",
+    "community": 10,
+    "pagerank": 0.0005541503949690354,
+    "first_name": "Zhiyong",
+    "last_name": "Cai",
+    "affiliation": "Forest Products Laboratory",
+    "countries": "United States",
+    "year": 2021,
+    "month": 12,
+    "articles": 9,
+    "categories": [
+      { "name": "Subtopics", "segment": "Oil-Water Separation" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01263231052.35",
+    "community": 10,
+    "pagerank": 0.00026032454565747904,
+    "first_name": "Lih-sheng",
+    "last_name": "Turng",
+    "affiliation": "University of Wisconsin\u2013Madison",
+    "countries": "United States",
+    "year": 2021,
+    "month": 12,
+    "articles": 3,
+    "categories": [
+      { "name": "Subtopics", "segment": "Oil-Water Separation" },
+      { "name": "Field of Study", "segment": "Engineering and Aplications" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01142252200.67",
+    "community": 10,
+    "pagerank": 0.00014591207257351428,
+    "first_name": "Alexander V.",
+    "last_name": "Kvit",
+    "affiliation": "University of Wisconsin\u2013Madison",
+    "countries": "United States",
+    "year": 2021,
+    "month": 5,
+    "articles": 1,
+    "categories": [
+      { "name": "Subtopics", "segment": "Carbon-based Aerogels" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01307142113.32",
+    "community": 10,
+    "pagerank": 0.00014591207257355981,
+    "first_name": "Zhenqiang",
+    "last_name": "Ma",
+    "affiliation": "University of Wisconsin\u2013Madison",
+    "countries": "United States",
+    "year": 2021,
+    "month": 12,
+    "articles": 2,
+    "categories": [
+      { "name": "Subtopics", "segment": "Carbon-based Aerogels" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01053324035.41",
+    "community": 10,
+    "pagerank": 0.00020423448675763493,
+    "first_name": "Saulius",
+    "last_name": "Kaciulis",
+    "affiliation": "Institute of Nanostructured Materials",
+    "countries": "Italy",
+    "year": 2021,
+    "month": 12,
+    "articles": 1,
+    "categories": [
+      { "name": "Subtopics", "segment": "Absorption Applications" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01265725641.05",
+    "community": 10,
+    "pagerank": 0.00023054833489482277,
+    "first_name": "Francesco",
+    "last_name": "Mallamace",
+    "affiliation": "Massachusetts Institute of Technology | Institute for Complex Systems",
+    "countries": "United States | Italy",
+    "year": 2021,
+    "month": 7,
+    "articles": 1,
+    "categories": [
+      { "name": "Subtopics", "segment": "Absorption Applications" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.016607417767.58",
+    "community": 10,
+    "pagerank": 0.00034221704819082743,
+    "first_name": "Paolo",
+    "last_name": "Aprea",
+    "affiliation": "University of Naples Federico II",
+    "countries": "Italy",
+    "year": 2021,
+    "month": 10,
+    "articles": 3,
+    "categories": [
+      { "name": "Subtopics", "segment": "Absorption Applications" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.0655050224.81",
+    "community": 10,
+    "pagerank": 0.000230548334894879,
+    "first_name": "Domenico",
+    "last_name": "Mallamace",
+    "affiliation": "University of Messina",
+    "countries": "Italy",
+    "year": 2021,
+    "month": 10,
+    "articles": 1,
+    "categories": [
+      { "name": "Subtopics", "segment": "Absorption Applications" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.07426015274.07",
+    "community": 10,
+    "pagerank": 0.00023054833489476458,
+    "first_name": "Sow-Hsin",
+    "last_name": "Chen",
+    "affiliation": "Massachusetts Institute of Technology",
+    "countries": "United States",
+    "year": 2022,
+    "month": 2,
+    "articles": 1,
+    "categories": [
+      { "name": "Subtopics", "segment": "Absorption Applications" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.07772753643.27",
+    "community": 10,
+    "pagerank": 0.00016301762803230439,
+    "first_name": "Veronica",
+    "last_name": "Ambrogi",
+    "affiliation": "University of Naples Federico II",
+    "countries": "Italy",
+    "year": 2021,
+    "month": 12,
+    "articles": 1,
+    "categories": [
+      { "name": "Subtopics", "segment": "Absorption Applications" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.013637156112.56",
+    "community": 10,
+    "pagerank": 0.00016301762803235656,
+    "first_name": "Angela",
+    "last_name": "Marotta",
+    "affiliation": "University of Naples Federico II",
+    "countries": "Italy",
+    "year": 2021,
+    "month": 12,
+    "articles": 1,
+    "categories": [
+      { "name": "Subtopics", "segment": "Absorption Applications" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01055075604.24",
+    "community": 10,
+    "pagerank": 0.0002305483348949333,
+    "first_name": "G.",
+    "last_name": "Mensitieri",
+    "affiliation": "University of Naples Federico II | National Interuniversity Consortium of Materials Science and Technology",
+    "countries": "Italy",
+    "year": 2022,
+    "month": 2,
+    "articles": 1,
+    "categories": [
+      { "name": "Subtopics", "segment": "Absorption Applications" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.0755572005.88",
+    "community": 10,
+    "pagerank": 0.00023054833489503647,
+    "first_name": "Francesco",
+    "last_name": "Greco",
+    "affiliation": "University of Naples Federico II",
+    "countries": "Italy",
+    "year": 2022,
+    "month": 1,
+    "articles": 1,
+    "categories": [
+      { "name": "Subtopics", "segment": "Absorption Applications" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01170513712.34",
+    "community": 10,
+    "pagerank": 0.00023054833489498578,
+    "first_name": "Raffaele",
+    "last_name": "Pastore",
+    "affiliation": "University of Naples Federico II",
+    "countries": "Italy",
+    "year": 2022,
+    "month": 1,
+    "articles": 1,
+    "categories": [
+      { "name": "Subtopics", "segment": "Absorption Applications" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.012365123114.50",
+    "community": 10,
+    "pagerank": 0.00048666006182273034,
+    "first_name": "Giovanni",
+    "last_name": "Filippone",
+    "affiliation": "University of Naples Federico II",
+    "countries": "Italy",
+    "year": 2021,
+    "month": 5,
+    "articles": 4,
+    "categories": [
+      { "name": "Subtopics", "segment": "Absorption Applications" },
+      { "name": "Field of Study", "segment": "Engineering and Aplications" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01256573076.31",
+    "community": 10,
+    "pagerank": 0.00020243194483348363,
+    "first_name": "Luigi",
+    "last_name": "Ambrosio",
+    "affiliation": "National Research Council",
+    "countries": "Italy",
+    "year": 2021,
+    "month": 11,
+    "articles": 1,
+    "categories": [
+      { "name": "Subtopics", "segment": "Absorption Applications" },
+      { "name": "Field of Study", "segment": "Engineering and Aplications" }
+    ]
+  },
+  {
+    "researcher_id": "ur.014677717040.71",
+    "community": 10,
+    "pagerank": 0.00020243194483359427,
+    "first_name": "Chiara",
+    "last_name": "Santillo",
+    "affiliation": "Institute of Polymers, Composites and Biomaterials",
+    "countries": "Italy",
+    "year": 2022,
+    "month": 2,
+    "articles": 1,
+    "categories": [
+      { "name": "Subtopics", "segment": "Absorption Applications" },
+      { "name": "Field of Study", "segment": "Engineering and Aplications" }
+    ]
+  },
+  {
+    "researcher_id": "ur.015753227361.12",
+    "community": 10,
+    "pagerank": 0.0005373238491374166,
+    "first_name": "Martina Salzano",
+    "last_name": "de Luna",
+    "affiliation": "Institute of Polymers, Composites and Biomaterials | University of Naples Federico II",
+    "countries": "Italy",
+    "year": 2021,
+    "month": 12,
+    "articles": 5,
+    "categories": [
+      { "name": "Subtopics", "segment": "Absorption Applications" },
+      { "name": "Field of Study", "segment": "Engineering and Aplications" }
+    ]
+  },
+  {
+    "researcher_id": "ur.012062376123.68",
+    "community": 10,
+    "pagerank": 0.0002024319448335401,
+    "first_name": "Rachele",
+    "last_name": "Castaldo",
+    "affiliation": "Institute of Polymers, Composites and Biomaterials",
+    "countries": "Italy",
+    "year": 2022,
+    "month": 2,
+    "articles": 1,
+    "categories": [
+      { "name": "Subtopics", "segment": "Absorption Applications" },
+      { "name": "Field of Study", "segment": "Engineering and Aplications" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01152312661.46",
+    "community": 10,
+    "pagerank": 0.0004325718412347643,
+    "first_name": "Hesheng",
+    "last_name": "Xia",
+    "affiliation": "Sichuan University",
+    "countries": "China",
+    "year": 2022,
+    "month": 2,
+    "articles": 5,
+    "categories": [
+      { "name": "Field of Study", "segment": "Engineering and Aplications" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01264113067.51",
+    "community": 10,
+    "pagerank": 0.00013530463126686478,
+    "first_name": "D.",
+    "last_name": "Caputo",
+    "affiliation": "University of Naples Federico II",
+    "countries": "Italy",
+    "year": 2021,
+    "month": 11,
+    "articles": 1,
+    "categories": [
+      { "name": "Subtopics", "segment": "Synthesis and Characterisation" },
+      { "name": "Field of Study", "segment": "Engineering and Aplications" }
+    ]
+  },
+  {
+    "researcher_id": "ur.011767606167.84",
+    "community": 10,
+    "pagerank": 0.00019224775965733413,
+    "first_name": "Enrica",
+    "last_name": "Luzzi",
+    "affiliation": "University of Naples Federico II",
+    "countries": "Italy",
+    "year": 2021,
+    "month": 5,
+    "articles": 2,
+    "categories": [
+      { "name": "Subtopics", "segment": "Synthesis and Characterisation" },
+      { "name": "Field of Study", "segment": "Engineering and Aplications" }
+    ]
+  },
+  {
+    "researcher_id": "ur.07717056537.15",
+    "community": 10,
+    "pagerank": 0.00020423448675775096,
+    "first_name": "Pierfrancesco",
+    "last_name": "Cerruti",
+    "affiliation": "Institute of Polymers, Composites and Biomaterials",
+    "countries": "Italy",
+    "year": 2021,
+    "month": 8,
+    "articles": 2,
+    "categories": [
+      { "name": "Subtopics", "segment": "Thermal and Mechanical Properties" }
+    ]
+  },
+  {
+    "researcher_id": "ur.010001022603.39",
+    "community": 10,
+    "pagerank": 0.00043727401682393507,
+    "first_name": "Letizia",
+    "last_name": "Verdolotti",
+    "affiliation": "Institute of Polymers, Composites and Biomaterials",
+    "countries": "Italy",
+    "year": 2022,
+    "month": 1,
+    "articles": 4,
+    "categories": [
+      { "name": "Subtopics", "segment": "Thermal and Mechanical Properties" }
+    ]
+  },
+  {
+    "researcher_id": "ur.0770773174.92",
+    "community": 10,
+    "pagerank": 0.0003153721271914287,
+    "first_name": "M.",
+    "last_name": "Stanzione",
+    "affiliation": "Institute of Polymers, Composites and Biomaterials",
+    "countries": "Italy",
+    "year": 2021,
+    "month": 3,
+    "articles": 3,
+    "categories": [
+      { "name": "Subtopics", "segment": "Thermal and Mechanical Properties" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01030242074.90",
+    "community": 10,
+    "pagerank": 0.00020423448675769413,
+    "first_name": "Gennaro",
+    "last_name": "Gentile",
+    "affiliation": "Institute of Polymers, Composites and Biomaterials",
+    "countries": "Italy",
+    "year": 2022,
+    "month": 2,
+    "articles": 2,
+    "categories": [
+      { "name": "Subtopics", "segment": "Thermal and Mechanical Properties" }
+    ]
+  },
+  {
+    "researcher_id": "ur.014322072725.18",
+    "community": 10,
+    "pagerank": 0.0004372740168239883,
+    "first_name": "Marino",
+    "last_name": "Lavorgna",
+    "affiliation": "National Research Council",
+    "countries": "Italy",
+    "year": 2022,
+    "month": 4,
+    "articles": 4,
+    "categories": [
+      { "name": "Subtopics", "segment": "Thermal and Mechanical Properties" }
+    ]
+  },
+  {
+    "researcher_id": "ur.011742401057.35",
+    "community": 10,
+    "pagerank": 0.00019983609939402093,
+    "first_name": "Ligong",
+    "last_name": "Chen",
+    "affiliation": "Tianjin University",
+    "countries": "China",
+    "year": 2022,
+    "month": 3,
+    "articles": 1,
+    "categories": [
+      { "name": "Subtopics", "segment": "Thermal and Mechanical Properties" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.0775615600.21",
+    "community": 10,
+    "pagerank": 0.00019125306346547984,
+    "first_name": "Vladimir",
+    "last_name": "Silant\u2019ev",
+    "affiliation": "Institute of Chemistry, Far Eastern Branch of the Russian Academy of Sciences | Far Eastern Federal University",
+    "countries": "Russia",
+    "year": 2021,
+    "month": 8,
+    "articles": 2,
+    "categories": [
+      { "name": "Subtopics", "segment": "Thermal and Mechanical Properties" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01026177420.86",
+    "community": 10,
+    "pagerank": 0.00012042303480422737,
+    "first_name": "Li-Jen",
+    "last_name": "Chen",
+    "affiliation": "National Taiwan University",
+    "countries": "Taiwan",
+    "year": 2022,
+    "month": 2,
+    "articles": 1,
+    "categories": [
+      { "name": "Subtopics", "segment": "Thermal and Mechanical Properties" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.010106264046.50",
+    "community": 10,
+    "pagerank": 0.00019983609939416846,
+    "first_name": "Bo",
+    "last_name": "Chen",
+    "affiliation": "University of Maryland, College Park",
+    "countries": "United States",
+    "year": 2021,
+    "month": 12,
+    "articles": 1,
+    "categories": [
+      { "name": "Subtopics", "segment": "Thermal and Mechanical Properties" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01001456700.13",
+    "community": 10,
+    "pagerank": 0.00029793185020639116,
+    "first_name": "Yury",
+    "last_name": "Shchipunov",
+    "affiliation": "Far Eastern Branch of the Russian Academy of Sciences",
+    "countries": "Russia",
+    "year": 2021,
+    "month": 12,
+    "articles": 4,
+    "categories": [
+      { "name": "Subtopics", "segment": "Thermal and Mechanical Properties" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.011653233227.55",
+    "community": 10,
+    "pagerank": 0.00019983609939407248,
+    "first_name": "Jinghao",
+    "last_name": "Li",
+    "affiliation": "Forest Products Laboratory",
+    "countries": "United States",
+    "year": 2021,
+    "month": 3,
+    "articles": 1,
+    "categories": [
+      { "name": "Subtopics", "segment": "Thermal and Mechanical Properties" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.012370444221.02",
+    "community": 10,
+    "pagerank": 0.00019983609939412162,
+    "first_name": "Jinli",
+    "last_name": "Zhu",
+    "affiliation": "Nantong University",
+    "countries": "China",
+    "year": 2021,
+    "month": 11,
+    "articles": 1,
+    "categories": [
+      { "name": "Subtopics", "segment": "Thermal and Mechanical Properties" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.014676226563.45",
+    "community": 10,
+    "pagerank": 0.00022512990461455228,
+    "first_name": "O. N.",
+    "last_name": "Khlebnikov",
+    "affiliation": "Far Eastern Branch of the Russian Academy of Sciences",
+    "countries": "Russia",
+    "year": 2020,
+    "month": 7,
+    "articles": 3,
+    "categories": [
+      { "name": "Subtopics", "segment": "Thermal and Mechanical Properties" },
+      { "name": "Field of Study", "segment": "Chemical Sciences" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01157525263.24",
+    "community": 10,
+    "pagerank": 0.0001740996320479757,
+    "first_name": "Alireza",
+    "last_name": "Javadi",
+    "affiliation": "University of Wisconsin\u2013Madison",
+    "countries": "United States",
+    "year": 2017,
+    "month": 2,
+    "articles": 2,
+    "categories": [
+      { "name": "Subtopics", "segment": "Thermal and Mechanical Properties" },
+      { "name": "Field of Study", "segment": "Engineering and Aplications" }
+    ]
+  },
+  {
+    "researcher_id": "ur.011263715107.96",
+    "community": 10,
+    "pagerank": 0.00029793185020644505,
+    "first_name": "Irina",
+    "last_name": "Postnova",
+    "affiliation": "Far Eastern Federal University | Far Eastern Branch of the Russian Academy of Sciences",
+    "countries": "Russia",
+    "year": 2021,
+    "month": 12,
+    "articles": 3,
+    "categories": [
+      { "name": "Subtopics", "segment": "Thermal and Mechanical Properties" },
+      { "name": "Field of Study", "segment": "Engineering and Aplications" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01222660362.37",
+    "community": 10,
+    "pagerank": 0.0001740996320479294,
+    "first_name": "Ronald",
+    "last_name": "Sabo",
+    "affiliation": "US Forest Service",
+    "countries": "United States",
+    "year": 2021,
+    "month": 10,
+    "articles": 2,
+    "categories": [
+      { "name": "Subtopics", "segment": "Thermal and Mechanical Properties" },
+      { "name": "Field of Study", "segment": "Engineering and Aplications" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01351034104.37",
+    "community": 10,
+    "pagerank": 0.0001740996320478804,
+    "first_name": "Yasin",
+    "last_name": "Altin",
+    "affiliation": "Bursa Technical University",
+    "countries": "Turkey",
+    "year": 2021,
+    "month": 10,
+    "articles": 1,
+    "categories": [
+      { "name": "Subtopics", "segment": "Thermal and Mechanical Properties" },
+      { "name": "Field of Study", "segment": "Engineering and Aplications" }
+    ]
+  },
+  {
+    "researcher_id": "ur.01011062465.04",
+    "community": 10,
+    "pagerank": 0.00012988720758285086,
+    "first_name": "Anatoly",
+    "last_name": "Zinchenko",
+    "affiliation": "Nagoya University",
+    "countries": "Japan",
+    "year": 2022,
+    "month": 2,
+    "articles": 1,
+    "categories": [
+      { "name": "Subtopics", "segment": "Thermal and Mechanical Properties" },
+      { "name": "Field of Study", "segment": "Engineering and Aplications" }
+    ]
+  },
+  {
+    "researcher_id": "ur.014637325357.96",
+    "community": 10,
+    "pagerank": 0.00012988720758290323,
+    "first_name": "Sergey",
+    "last_name": "Sarin",
+    "affiliation": "Far Eastern Branch of the Russian Academy of Sciences",
+    "countries": "Russia",
+    "year": 2021,
+    "month": 12,
+    "articles": 1,
+    "categories": [
+      { "name": "Subtopics", "segment": "Thermal and Mechanical Properties" },
+      { "name": "Field of Study", "segment": "Engineering and Aplications" }
+    ]
+  }
+]

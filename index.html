@@ -1,188 +1,198 @@
-<!-- 
-    http://bl.ocks.org/mbostock/2706022 - straight edges
-    http://bl.ocks.org/mbostock/1153292 - curved edges
+<html>
+  <!DOCTYPE html>
+  <head>
+    <meta charset="utf-8" />
+    <link
+      rel="stylesheet"
+      href="//code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css"
+    />
+    <!-- <link rel="stylesheet" href="/resources/demos/style.css" /> -->
+    <link rel="stylesheet" href="css/styles.css" />
+    <title>PEARL Network Graph</title>
+  </head>
+  <body>
+    <div class="mask">
+      <div class="instructions">
+        <!--         <li class="instructionsList">
+          This prototype visualisation has been created for user testing in
+          relation to the PEARL project.
+        </li>
+        <li class="instructionsList">
+          It is presented as a possible replacement for the netowrk graphs
+          currently adopted in the PEARL PoC, namely:<br /><br />
+          <img src="image/image0.png" width="33%" height="33%" />
+          <br /><br />
+        </li>
+        <li class="instructionsList">
+          The intention of this testing phase is to focus on user functionality,
+          not colour branding. Hence, the majority of colour styling has been
+          removed from this visualisation, and replaced by gray-scale design.
+          Light coloured styling has only been adopted in relation to some user
+          interaction with the chart. Where this is so, standard SNG primary and
+          secondary colour palettes have been adopted.
+        </li>
+        <li class="instructionsList">
+          Some functionality has been provided.; further details of which are
+        provided on the next page after a Topic has been selected.
+        </li>
 
--->
-<!DOCTYPE html>
-<meta charset="utf-8" />
-<title>Force-directed Chart</title>
-<style>
-  .link {
-    fill: none;
-    stroke: #666;
-    stroke-width: 1.5px;
-  }
+              <li class="instructionsList">
+        Some functionality has been provided, namely:
+        <ol>
+          <li>
+            When loaded initially, the chart will default to a 'stacked' column
+            chart. Users can modify the chart type used to display data by
+            selecting one of the three charting option radio buttons found above
+            the chart. Users can select either a stacked, grouped or
+            100%-stacked column chart. The chart will automatically transition
+            to display the same data in the newly selected chart format.
+          </li>
+          <li>
+            Moving the mouse cursor over any data rectangle will display an
+            information tooltip. This currently shows arbitrary data relating to
+            the rectangle and column selected. The selected data block, and all
+            other data blocks in the same 'layer' will become highlighted.
+          </li>
+          <li>
+            Moving away from the selection will return all data blocks to its
+            original styling.
+          </li>
+          <li>
+            Clicking on a data block will render the styling persistent. The
+            selected data block will now render a different shade to the others
+            in the data layer. Now moving the cursor away from the selection
+            will not render the styling back to its default values. The chart
+            [type] can then be changed while the highlighting is applied.
+          </li>
+          <li>
+            Clicking a second time on the originally selected data block will
+            remove all style highlighting from the chart.
+          </li>
+        </ol>
+      </li>
+        <li class="instructionsList">
+          When considering your feedback, focus on the following points:
+          <ol>
+            <li>
+              <b>User Functionality:</b> what functionality is currently not
+              present that you would like to be provided;
+            </li>
+            <li>
+              <b>Tooltip Content:</b> what data content/value-added information
+              would be useful on the tooltip;
+            </li>
+          </ol>
+        </li> -->
+        <!--    <li class="instructionsList">
+          Use the selection list below to select the main topic you would like
+          to explore using this prototype visualisation.
+        </li> -->
+        <form class="topic-selection-form">
+          <p class="instruction">Please select your preferred PEARL Topic:</p>
+          <!-- 
+          <input
+            type="radio"
+            id="aerogels"
+            class="radio aerogels"
+            name="topic"
+            value="aerogels"
+          />
+          <label for="aerogels">aerogels</label>
+          <input
+            type="radio"
+            id="black-holes"
+            class="radio black-holes"
+            name="topic"
+            value="black holes"
+          />
+          <label for="black-holes">black holes</label><br />
+          <input
+            type="button"
+            value="Submit"
+            class="submitTopic"
+            id="submitTopic"
+          /> -->
+        </form>
+      </div>
+    </div>
+    <!-- end mask -->
+    <div id="container" class="container hide">
+      <!--  <div class="js-toggle instructionLabel" data-container="toggle-1">
+        Instructions for Prototype
+      </div>
+      <div class="toggle-container" id="toggle-1">
+        <div class="instructions">
+          <li class="instructionsList">
+            Some functionality has been provided, namely:
+            <ol>
+              <li>
+                lorum ipsum
+              </li>
+            </ol>
+          </li>
+        </div>
+      </div> -->
+      <form class="visualisation-form">
+        <div class="selectorDiv">
+          <label class="radioButtonLabel">Style Nodes By:</label>
+          <input
+            type="radio"
+            id="Subtopic"
+            name="type"
+            value="Subtopic"
+            onClick="getViewType(this)"
+            checked
+          />
+          <label for="Subtopic">Subtopic</label>
+          <input
+            type="radio"
+            id="fieldOfStudy"
+            name="type"
+            value="fieldOfStudy"
+            onClick="getViewType(this)"
+          />
+          <label for="fieldOfStudy">Field of Study</label>
+        </div>
+        <div class="selectorDiv">
+          <label class="radioButtonLabel">Scale Nodes By:</label>
+          <input
+            type="radio"
+            id="articles"
+            name="rank"
+            value="articles"
+            onClick="getScaleType(this)"
+          />
+          <label for="articles">Articles</label>
+          <input
+            type="radio"
+            id="rank"
+            name="rank"
+            value="rank"
+            onClick="getScaleType(this)"
+            checked
+          />
+          <label for="rank">Rank</label>
+        </div>
 
-  #licensing {
-    fill: green;
-  }
+        <p class="timeRangeLabel">
+          <label for="amount">Selected Year Range:</label>
+          <input
+            type="text"
+            id="amount"
+            readonly
+            style="border:0; color:#f6931f; font-weight:bold;"
+          />
+        </p>
 
-  .link.licensing {
-    stroke: green;
-  }
+        <div class="slider-range" id="slider-range"></div>
+      </form>
+    </div>
+  </body>
 
-  .link.resolved {
-    stroke-dasharray: 0, 2 1;
-  }
-
-  circle {
-    fill: #ccc;
-    stroke: #333;
-    stroke-width: 1.5px;
-  }
-
-  text {
-    font: 10px sans-serif;
-    pointer-events: none;
-    text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
-  }
-</style>
-<body>
-  <script src="//d3js.org/d3.v3.min.js"></script>
-  <script>
-    // http://blog.thomsonreuters.com/index.php/mobile-patent-suits-graphic-of-the-day/
-    var links = [
-      { source: 'Microsoft', target: 'Amazon', type: 'licensing' },
-      { source: 'Microsoft', target: 'HTC', type: 'licensing' },
-      { source: 'Samsung', target: 'Apple', type: 'suit' },
-      { source: 'Motorola', target: 'Apple', type: 'suit' },
-      { source: 'Nokia', target: 'Apple', type: 'resolved' },
-      { source: 'HTC', target: 'Apple', type: 'suit' },
-      { source: 'Kodak', target: 'Apple', type: 'suit' },
-      { source: 'Microsoft', target: 'Barnes & Noble', type: 'suit' },
-      { source: 'Microsoft', target: 'Foxconn', type: 'suit' },
-      { source: 'Oracle', target: 'Google', type: 'suit' },
-      { source: 'Apple', target: 'HTC', type: 'suit' },
-      { source: 'Microsoft', target: 'Inventec', type: 'suit' },
-      { source: 'Samsung', target: 'Kodak', type: 'resolved' },
-      { source: 'LG', target: 'Kodak', type: 'resolved' },
-      { source: 'RIM', target: 'Kodak', type: 'suit' },
-      { source: 'Sony', target: 'LG', type: 'suit' },
-      { source: 'Kodak', target: 'LG', type: 'resolved' },
-      { source: 'Apple', target: 'Nokia', type: 'resolved' },
-      { source: 'Qualcomm', target: 'Nokia', type: 'resolved' },
-      { source: 'Apple', target: 'Motorola', type: 'suit' },
-      { source: 'Microsoft', target: 'Motorola', type: 'suit' },
-      { source: 'Motorola', target: 'Microsoft', type: 'suit' },
-      { source: 'Huawei', target: 'ZTE', type: 'suit' },
-      { source: 'Ericsson', target: 'ZTE', type: 'suit' },
-      { source: 'Kodak', target: 'Samsung', type: 'resolved' },
-      { source: 'Apple', target: 'Samsung', type: 'suit' },
-      { source: 'Kodak', target: 'RIM', type: 'suit' },
-      { source: 'Nokia', target: 'Qualcomm', type: 'suit' }
-    ]
-
-    var nodes = {}
-
-    // Compute the distinct nodes from the links.
-    links.forEach(function (link) {
-      link.source =
-        nodes[link.source] || (nodes[link.source] = { name: link.source })
-      link.target =
-        nodes[link.target] || (nodes[link.target] = { name: link.target })
-    })
-
-    var width = 960,
-      height = 500
-
-    var force = d3.layout
-      .force()
-      .nodes(d3.values(nodes))
-      .links(links)
-      .size([width, height])
-      .linkDistance(60)
-      .charge(-300)
-      .on('tick', tick)
-      .start()
-
-    var svg = d3
-      .select('body')
-      .append('svg')
-      .attr('width', width)
-      .attr('height', height)
-
-    // Per-type markers, as they don't inherit styles.
-    svg
-      .append('defs')
-      .selectAll('marker')
-      .data(['suit', 'licensing', 'resolved'])
-      .enter()
-      .append('marker')
-      .attr('id', function (d) {
-        return d
-      })
-      .attr('viewBox', '0 -5 10 10')
-      .attr('refX', 15)
-      .attr('refY', -1.5)
-      .attr('markerWidth', 6)
-      .attr('markerHeight', 6)
-      .attr('orient', 'auto')
-      .append('path')
-      .attr('d', 'M0,-5L10,0L0,5')
-
-    var path = svg
-      .append('g')
-      .selectAll('path')
-      .data(force.links())
-      .enter()
-      .append('path')
-      .attr('class', function (d) {
-        return 'link ' + d.type
-      })
-      .attr('marker-end', function (d) {
-        return 'url(#' + d.type + ')'
-      })
-
-    var circle = svg
-      .append('g')
-      .selectAll('circle')
-      .data(force.nodes())
-      .enter()
-      .append('circle')
-      .attr('r', 6)
-      .call(force.drag)
-
-    var text = svg
-      .append('g')
-      .selectAll('text')
-      .data(force.nodes())
-      .enter()
-      .append('text')
-      .attr('x', 8)
-      .attr('y', '.31em')
-      .text(function (d) {
-        return d.name
-      })
-
-    // Use elliptical arc path segments to doubly-encode directionality.
-    function tick () {
-      path.attr('d', linkArc)
-      circle.attr('transform', transform)
-      text.attr('transform', transform)
-    }
-
-    function linkArc (d) {
-      var dx = d.target.x - d.source.x,
-        dy = d.target.y - d.source.y,
-        dr = Math.sqrt(dx * dx + dy * dy)
-      return (
-        'M' +
-        d.source.x +
-        ',' +
-        d.source.y +
-        'A' +
-        dr +
-        ',' +
-        dr +
-        ' 0 0,1 ' +
-        d.target.x +
-        ',' +
-        d.target.y
-      )
-    }
-
-    function transform (d) {
-      return 'translate(' + d.x + ',' + d.y + ')'
-    }
-  </script>
-</body>
+  <!-- <script src="https://d3js.org/d3.v5.min.js"></script> -->
+  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+  <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+  <script src="js/d3.v5.min.js"></script>
+  <script src="js/selector-page.js"></script>
+  <script src="js/script.js"></script>
+</html>
