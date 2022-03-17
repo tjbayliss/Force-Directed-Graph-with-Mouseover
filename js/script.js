@@ -86,7 +86,7 @@ d3.selection.prototype.moveToBack = function () {
 //   });
 
 function drawChart(data) {
-  console.log(data);
+  // console.log(data);
   pearlData.graph.nodes = data[0] /* [0].data */;
   pearlData.graph.links = data[1] /* [0].data */;
 
@@ -102,7 +102,7 @@ function drawChart(data) {
   });
 
   pearlData.graph.nodes.forEach(function (d, i) {
-    console.log(d);
+    // console.log(d);
     if (d.year < pearlData.communityStartYear) {
       pearlData.communityStartYear = d.year;
     }
@@ -139,7 +139,7 @@ function drawChart(data) {
     });
   }); // end forEach
 
-  console.log(pearlData.communityStartYear, pearlData.communityEndYear);
+  // console.log(pearlData.communityStartYear, pearlData.communityEndYear);
 
   // https://api.jqueryui.com/slider/#option-values
   // time slider https://jqueryui.com/slider/#steps
@@ -179,7 +179,7 @@ function drawChart(data) {
     .domain([0, 0.0005])
     .range([0, pearlData.maxCircleRadius]);
 
-  console.log(pearlData);
+  // console.log(pearlData);
 
   pearlData.labelLayout = d3
     .forceSimulation(label.nodes)

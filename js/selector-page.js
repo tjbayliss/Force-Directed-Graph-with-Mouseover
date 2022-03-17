@@ -1,4 +1,4 @@
-console.log("selector-page.js");
+// console.log("selector-page.js");
 // project-specific var declarations ...
 
 //var pearlData = {};
@@ -12,11 +12,11 @@ document.addEventListener(
 );
 
 function buildSelectionPage() {
-  console.log("buildSelectionPage");
-  console.log("d3.version", d3.version);
+  // console.log("buildSelectionPage");
+  // console.log("d3.version", d3.version);
 
   var path = "/data/topic0_subtopic0_topics.json";
-  console.log(path);
+  // console.log(path);
   var files = [path];
   var promises = [];
 
@@ -27,7 +27,7 @@ function buildSelectionPage() {
   Promise.all(promises)
     .then(function (values) {
       var topics = values[0];
-      console.log(topics);
+      // console.log(topics);
 
       // http://bl.ocks.org/jfreels/6734823
       var select = d3
@@ -71,7 +71,7 @@ function buildSelectionPage() {
       function onchange() {
         selectValue = d3.select("select").property("value");
 
-        console.log("selectValue:", selectValue);
+        // console.log("selectValue:", selectValue);
 
         d3.selectAll(".mask").classed("hide", true);
         d3.selectAll(".container").classed("hide", false);
@@ -85,16 +85,16 @@ function buildSelectionPage() {
 
         var promises = [];
 
-        console.log(files);
+        // console.log(files);
 
         files.forEach(function (url) {
-          console.log(url);
+          // console.log(url);
           promises.push(d3.json(url));
         }); // end forEach ...
 
         Promise.all(promises)
           .then(function (data) {
-            console.log(data);
+            // console.log(data);
             drawChart(data);
           })
           .catch(function (error) {
